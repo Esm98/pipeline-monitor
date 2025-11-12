@@ -1,0 +1,8 @@
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.csproj.AssemblyReference.cache
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.AssemblyInfoInputs.cache
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.AssemblyInfo.cs
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.csproj.CoreCompileInputs.cache
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.MvcApplicationPartsAssemblyInfo.cs
+E:\.net\PipelineMonitor\Api2\obj\Debug\net9.0\Api2.MvcApplicationPartsAssemblyInfo.cache
